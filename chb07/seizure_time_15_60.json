@@ -1,0 +1,85 @@
+{
+    "chb07_01":{
+        "interictal_start_time": 0,
+        "interictal_end_time": 14411
+    },
+    "chb07_02":{
+        "interictal_start_time": 0,
+        "interictal_end_time": 14400
+    },
+    "chb07_03":{
+        "interictal_start_time": 0,
+        "interictal_end_time": 14400
+    },
+    "chb07_04":{
+        "interictal_start_time": 0,
+        "interictal_end_time": 14400
+    },
+    "chb07_05":{
+        "interictal_start_time": 0,
+        "interictal_end_time": 14400
+    },
+    "chb07_06":{
+        "interictal_start_time": 0,
+        "interictal_end_time": 4920
+    },
+    "chb07_07":{
+        "interictal_start_time": 0,
+        "interictal_end_time": 4660
+    },
+    "chb07_08":{
+        "interictal_start_time": 0,
+        "interictal_end_time": 14400
+    },
+    "chb07_09":{
+        "interictal_start_time": 0,
+        "interictal_end_time": 14400
+    },
+    "chb07_10":{
+        "interictal_start_time": 0,
+        "interictal_end_time": 14400
+    },
+    "chb07_11":{
+        "interictal_start_time": 0,
+        "interictal_end_time": 14400
+    },
+    "chb07_12":{
+        "interictal_start_time": 0,
+        "interictal_end_time": 1320,
+        "preictal_start_time": 4020,
+        "preictal_end_time": 4920,
+        "seizure_end_time": 5006
+    },
+    "chb07_13":{
+        "preictal_start_time": 2385,
+        "preictal_end_time": 3285,
+        "seizure_end_time": 3381
+    },
+    "chb07_14":{
+        "interictal_start_time": 3236,
+        "interictal_end_time": 14400
+    },
+    "chb07_15":{
+        "interictal_start_time": 0,
+        "interictal_end_time": 14400
+    },
+    "chb07_16":{
+        "interictal_start_time": 0,
+        "interictal_end_time": 14400
+    },
+    "chb07_17":{
+        "interictal_start_time": 0,
+        "interictal_end_time": 14400
+    },
+    "chb07_18":{
+        "interictal_start_time": 0,
+        "interictal_end_time": 12060
+    },
+    "chb07_19":{
+        "interictal_start_time": 0,
+        "interictal_end_time": 10088,
+        "preictal_start_time": 12788,
+        "preictal_end_time": 13688,
+        "seizure_end_time": 13831
+    }
+}
